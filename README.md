@@ -111,11 +111,6 @@ lib/
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## Troubleshooting
 If you encounter issues while running the app, try the following steps:
 
