@@ -16,7 +16,7 @@ void main() async {
 
   await DatabaseHelper.instance.database;
 
-  runApp(ProviderScope(child: MyApp()));
+  runApp(const ProviderScope(child: MyApp()));
 }
 
 class MyApp extends ConsumerWidget {
