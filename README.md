@@ -35,7 +35,7 @@ Ensure the following tools are installed:
 ### Clone the Repository
 Run the following command in your terminal to clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Vivek-Jadhav27/Task-Management-App.git
 ```
 
 Navigate into the project directory:
